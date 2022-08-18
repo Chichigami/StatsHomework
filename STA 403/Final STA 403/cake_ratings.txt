@@ -1,0 +1,17 @@
+rating	X1	X2
+64	4	not_sweet
+73	4	sweet
+61	4	not_sweet
+76	4	sweet
+72	6	not_sweet
+80	6	sweet
+71	6	not_sweet
+83	6	sweet
+83	8	not_sweet
+89	8	sweet
+86	8	not_sweet
+93	8	sweet
+88	10	not_sweet
+95	10	sweet
+94	10	not_sweet
+100	10	sweet
